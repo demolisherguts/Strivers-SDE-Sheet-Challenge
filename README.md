@@ -31,9 +31,6 @@ To keep track of the questions and problems I have solved, I will update the che
 
 Feel free to explore the code solutions and provide feedback or suggestions. Let's learn and grow together during this coding challenge! 🌟
 
-## Resources
-
-- Strivers SDE Sheet: [Link to the Sheet](add_link_here)
 
 ## Contributing
 
