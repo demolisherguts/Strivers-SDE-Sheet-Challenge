@@ -12,7 +12,7 @@ The main purpose of this repository is to:
 
 ## Folder Structure
 
-The repository is organized into different folders based on the day I have solved the problem in the Strivers SDE Sheet. Within each folder, you can find individual files for each problem or question.
+Repository is organized into different folders based on the day I have solved the problem in the Strivers SDE Sheet. Within each folder, you can find individual files for each problem or question.
 
 sort012.cpp
 searchin2dmatrix.cpp
